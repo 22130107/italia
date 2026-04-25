@@ -1,0 +1,40 @@
+
+@font-face {
+font-display: swap;
+font-family: 'Jost';
+font-style: normal;
+font-weight: 500;
+font-stretch: normal;
+unicode-range: U+0-10FFFF;
+src: url('https://storage.googleapis.com/download/storage/v1/b/prd-storytodesign.appspot.com/o/h2d-ext-asset%2F7c8497861ffd15f4e1284cd221f14658b0e95d61?generation=1760014019928327&alt=media') format('woff2');
+}
+
+@font-face {
+font-display: swap;
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-stretch: normal;
+unicode-range: U+0-10FFFF;
+src: url('https://storage.googleapis.com/download/storage/v1/b/prd-storytodesign.appspot.com/o/h2d-ext-asset%2Fd47a1b6347ce4a4c9f437608011273009d91f2b7?generation=1760090940071954&alt=media') format('woff2');
+}
+
+@font-face {
+font-display: swap;
+font-family: 'Jost';
+font-style: normal;
+font-weight: 600;
+font-stretch: normal;
+unicode-range: U+0-10FFFF;
+src: url('https://storage.googleapis.com/download/storage/v1/b/prd-storytodesign.appspot.com/o/h2d-ext-asset%2Fec1178db7a7515114a2d84e3dd680832b7af8b99?generation=1760014019912308&alt=media') format('woff2');
+}
+
+@font-face {
+font-display: swap;
+font-family: 'Jost';
+font-style: normal;
+font-weight: 700;
+font-stretch: normal;
+unicode-range: U+0-10FFFF;
+src: url('https://storage.googleapis.com/download/storage/v1/b/prd-storytodesign.appspot.com/o/h2d-ext-asset%2F921dc18c13fa0b0c94c5e2517ffe06139c3615a3?generation=1760090940088119&alt=media') format('woff2');
+}
